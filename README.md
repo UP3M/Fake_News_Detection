@@ -60,7 +60,7 @@ In conclusion, TF-IDF involves converting news articles into a vector of numeric
 
 ## How To Run:
 #### 1. The dataset is available in "dataset" folder.
-#### 2. The pretrained model for 1D-CNN and fine-tuned model for BERT are available in "pretrained model" folder.
+#### 2. The pretrained model for 1D-CNN and fine-tuned model for BERT are available on https://drive.google.com/file/d/1D2Dwf15oGeeeQgGcnZTnJ8baNHCILR75/view?usp=sharing.
 #### 3. We visualize our project using streamlit (all necessary file in "visualization" folder), to clone it and make it work, simply do following step:
  3.1. Download all pretrained model and change the path inside app.py
  3.2. Install all necessary library by using pip command (all required library is writen in requirement.txt)
